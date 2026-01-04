@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/iabdinur/iabdinur/main/banner.png)
+![Banner](./github-banner-image.jpg)
 
 <h1 align="center">Hi 👋, I am Ibrahim Abdinur</h1>
 <h3 align="center">Software engineer building cloud based applications, microservices, and data pipelines</h3>
