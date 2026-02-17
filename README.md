@@ -15,9 +15,8 @@
 
 <ul>
   <li>👨‍💻 About me <a href="https://iabdinur.com">https://iabdinur.com</a></li>
-  <li>📝 I regularly write articles on <a href="https://blog.iabdinur.com">https://blog.iabdinur.com</a></li>
-  <li>📫 How to reach me <b>iabdinur@icloud.com</b></li>
-  <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/ibrahim-abdinur/">https://www.linkedin.com/in/ibrahim-abdinur/</a></li>
+  <li>📝 New blog at <a href="https://blog.iabdinur.com">https://blog.iabdinur.com</a> — still in the migration phase, posting more regularly soon</li>
+  <li>📄 Let's connect on <a href="https://www.linkedin.com/in/ibrahim-abdinur/">LinkedIn</a></li>
   <li>⚡ Fun fact <b>I thrive in fast paced environments and love connecting with people</b></li>
 </ul>
 
